@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  font-family: Lato,sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  background-color: #ffffff;
+}
+
+img {
+  border-style: none;
+}
+
+img, svg {
+  vertical-align: middle;
+}
+
+.portfolio-block.photography .item {
+  overflow: hidden;
+  margin-bottom: 0;
+  background: rgba(0,0,0,0.03);
+  opacity: 1;
+}
+
+.page-footer .social-icons a {
+  font-size: 18px;
+  margin: 0 3px;
+  color: #fff;
+  border: 1px solid;
+  opacity: .75;
+  border-radius: 50%;
+  width: 36px;
+  display: inline-block;
+  height: 36px;
+  text-align: center;
+  background-color: #7cb5f5;
+  line-height: 34px;
+}
+
+.page-footer .social-icons a:hover {
+  opacity: 1;
+  background-color: blue;
+}
+
+.btn-outline-primary {
+  color: #0ea0ff;
+  border-color: #0ea0ff;
+  margin-left: 10px;
+}
+
